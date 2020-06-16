@@ -1,0 +1,6 @@
+C:\Cursos\6TO ciclo\DAWAV\MVCAJAX\DOMAIN\bin\Debug\DOMAIN.dll
+C:\Cursos\6TO ciclo\DAWAV\MVCAJAX\DOMAIN\bin\Debug\DOMAIN.pdb
+C:\Cursos\6TO ciclo\DAWAV\MVCAJAX\DOMAIN\obj\Debug\DOMAIN.csproj.CoreCompileInputs.cache
+C:\Cursos\6TO ciclo\DAWAV\MVCAJAX\DOMAIN\obj\Debug\DOMAIN.dll
+C:\Cursos\6TO ciclo\DAWAV\MVCAJAX\DOMAIN\obj\Debug\DOMAIN.pdb
+C:\Cursos\6TO ciclo\DAWAV\MVCAJAX\DOMAIN\obj\Debug\DOMAIN.csprojAssemblyReference.cache

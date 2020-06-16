@@ -1,0 +1,16 @@
+C:\Cursos\6TO ciclo\DAWAV\MVCAJAX\INFRAESTRUCTURE\bin\Debug\INFRAESTRUCTURE.dll.config
+C:\Cursos\6TO ciclo\DAWAV\MVCAJAX\INFRAESTRUCTURE\bin\Debug\INFRAESTRUCTURE.dll
+C:\Cursos\6TO ciclo\DAWAV\MVCAJAX\INFRAESTRUCTURE\bin\Debug\INFRAESTRUCTURE.pdb
+C:\Cursos\6TO ciclo\DAWAV\MVCAJAX\INFRAESTRUCTURE\bin\Debug\DOMAIN.dll
+C:\Cursos\6TO ciclo\DAWAV\MVCAJAX\INFRAESTRUCTURE\bin\Debug\EntityFramework.dll
+C:\Cursos\6TO ciclo\DAWAV\MVCAJAX\INFRAESTRUCTURE\bin\Debug\EntityFramework.SqlServer.dll
+C:\Cursos\6TO ciclo\DAWAV\MVCAJAX\INFRAESTRUCTURE\bin\Debug\DOMAIN.pdb
+C:\Cursos\6TO ciclo\DAWAV\MVCAJAX\INFRAESTRUCTURE\bin\Debug\EntityFramework.xml
+C:\Cursos\6TO ciclo\DAWAV\MVCAJAX\INFRAESTRUCTURE\bin\Debug\EntityFramework.SqlServer.xml
+C:\Cursos\6TO ciclo\DAWAV\MVCAJAX\INFRAESTRUCTURE\obj\Debug\INFRAESTRUCTURE.csprojAssemblyReference.cache
+C:\Cursos\6TO ciclo\DAWAV\MVCAJAX\INFRAESTRUCTURE\obj\Debug\INFRAESTRUCTURE.csproj.CoreCompileInputs.cache
+C:\Cursos\6TO ciclo\DAWAV\MVCAJAX\INFRAESTRUCTURE\obj\Debug\INFRAESTRUCTURE.csproj.CopyComplete
+C:\Cursos\6TO ciclo\DAWAV\MVCAJAX\INFRAESTRUCTURE\obj\Debug\INFRAESTRUCTURE.dll
+C:\Cursos\6TO ciclo\DAWAV\MVCAJAX\INFRAESTRUCTURE\obj\Debug\INFRAESTRUCTURE.pdb
+C:\Cursos\6TO ciclo\DAWAV\MVCAJAX\INFRAESTRUCTURE\obj\Debug\INFRAESTRUCTURE.Migrations.v1.resources
+C:\Cursos\6TO ciclo\DAWAV\MVCAJAX\INFRAESTRUCTURE\obj\Debug\INFRAESTRUCTURE.csproj.GenerateResource.cache
